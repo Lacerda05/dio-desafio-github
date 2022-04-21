@@ -1,2 +1,2 @@
 # Desafio Git/GitHub da DIO
-Desafio de Projeto sobre Git/GitHub - BootCamp WebDeveloper
+Repositório criado para Desafio - BootCamp WebDeveloper
